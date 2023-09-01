@@ -1,0 +1,48 @@
+.div-login-button {
+  padding: 15px;
+}
+.link-agenda {
+  width: 250px;
+}
+.icon-agenda {
+  padding: 6px;
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+.border-grey {
+  border-color: #ddd !important;
+}
+.btn-center {
+  left: 48%;
+}
+.btn-list-left {
+  left: -24px;
+  top: 65%;
+}
+.btn-list-right {
+  right: -24px;
+  top: 65%;
+}
+.list-jadwal:hover {
+  background-color: rgba(235, 242, 247, 0.8);
+}
+.btn-close {
+  color: #f44336 !important;
+  cursor: pointer;
+  margin: 5px;
+}
+.wrap-text-agenda {
+  width: 100% !important;
+}
+.wrap-text {
+  width: 90%;
+  word-wrap: break-word;
+}
+
+.btn_tambah {
+  background-color: transparent;
+  border: 0px;
+  font-weight: bold;
+  color: #0D3349;
+
+}
